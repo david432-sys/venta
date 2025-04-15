@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    width:100%;
+    height: 100%;
+  
+}
+
+.carousel slide{
+    width: 50%;
+    height: 50%;
+}
+
+.texto{ 
+    
+    text-align: center;
+   
+    width: 100%;
+
+}
+
+    
+
+
+
+#carrusel{
+    text-align: center;
+    width: 50%;
+}
+
+
+#carouselExampleInterval{
+    width: 50%;
+    padding: 3%;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+    width: 1900px;
+    text-align: center;
+}
+
+
+.datos-cof{
+    background-color: blue;
+    padding: 1%;
+    width: 100%;
+    text-align: center;
+}
+.codinformacion{
+    background-color: blue;
+}
+.textoss{
+    background-color: white;
+    color: white;
+}
+.table{
+    width: 180%;
+}
+
+.pie{
+    padding: 0.3%;
+    background-color: white;
+}
+.copi{
+    text-align: center;
+}
+.contac{
+
+    text-align: justify;
+    width: 30%;
+}
+.marcas{
+
+    color: white;
+    text-align: center;
+}
